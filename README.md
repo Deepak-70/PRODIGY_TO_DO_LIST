@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="screenshot.png" alt="App Screenshot">
+  <img src="Screenshot.png" alt="App Screenshot">
 </div>
 
 ## Key Features
